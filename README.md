@@ -1,7 +1,7 @@
 # RobotOperatingSystem
 Project outcomes from my learning of a very important and industry oriented tool - ROS. 
 
-These project was developed using ROS Kinetic on Ubuntu 16.04.
+These projects were developed using ROS Kinetic on Ubuntu 16.04.
 
 "detect_face" is a ROS package for face recognition using webcam of linux based workstation. 
 For running this package in ROS environments, initialise the ROS master node.
